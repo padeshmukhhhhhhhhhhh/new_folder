@@ -9,32 +9,37 @@
 
 <url>
   <loc>https://bitcoinchart.info/</loc>
-  <lastmod>2024-12-10T18:19:32+00:00</lastmod>
+  <lastmod>2025-01-02T14:22:16+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://bitcoinchart.info/index.html</loc>
-  <lastmod>2024-12-10T18:19:32+00:00</lastmod>
+  <lastmod>2025-01-02T14:22:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bitcoinchart.info/chart.html</loc>
+  <lastmod>2025-01-02T14:22:16+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bitcoinchart.info/about_us.html</loc>
-  <lastmod>2024-12-08T18:45:49+00:00</lastmod>
+  <lastmod>2025-01-02T14:22:16+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bitcoinchart.info/contact.html</loc>
-  <lastmod>2024-12-08T18:45:49+00:00</lastmod>
+  <lastmod>2025-01-02T14:22:16+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bitcoinchart.info/terms.html</loc>
-  <lastmod>2024-12-08T18:45:49+00:00</lastmod>
+  <lastmod>2025-01-02T14:22:16+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bitcoinchart.info/privacy_policy.html</loc>
-  <lastmod>2024-12-08T18:45:49+00:00</lastmod>
+  <lastmod>2025-01-02T14:22:16+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
